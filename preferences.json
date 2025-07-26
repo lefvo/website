@@ -1,0 +1,48 @@
+[
+  {
+    "property": "mod.sameerasw.zen_bg_color_enabled",
+    "label": "🎨 Enable custom background color for Zen",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "mod.sameerasw.zen_transparency_color",
+    "label": "🎨 Set custom background color (Overrides theme)",
+    "type": "string",
+    "defaultValue": "rgba(106,13,173,0.3)"
+  },
+  {
+    "property": "mod.sameerasw_zen_light_tint",
+    "label": "🌙 Light website tint",
+    "type": "dropdown",
+    "defaultValue": "2",
+    "options": [
+      { "label": "Flip", "value": "1" },
+      { "label": "Remove", "value": "2" }
+    ]
+  },
+  {
+    "property": "mod.sameerasw.zen_transparent_sidebar_enabled",
+    "label": "👀 Transparent sidebar (bookmarks, history and sync)",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "mod.sameerasw.zen_no_shadow",
+    "label": "❌ Remove shadows from background image",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "mod.sameerasw.zen_tab_switch_anim",
+    "label": "✨ Enable tab switching animation",
+    "type": "checkbox",
+    "defaultValue": true
+  },
+  {
+    "property": "mod.sameerasw.zen_urlbar_zoom_anim",
+    "label": "🔍 Enable zoom blur animation for the URL bar",
+    "type": "checkbox",
+    "defaultValue": false
+  }
+]
